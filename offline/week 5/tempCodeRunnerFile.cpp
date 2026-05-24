@@ -1,0 +1,1 @@
+g++ main.cpp AdjacencyMatrixGraph.h arrayqueue.cpp arraystack.cpp -o main
